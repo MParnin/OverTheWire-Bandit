@@ -80,7 +80,7 @@ Highlight and copy the returned password
 
 Break the ssh connection by typing `logout` or hitting `Ctrl + d`
 
-Enter `nano bandit1`, paste the copied password, save & exit (`Ctrl + x`, `y`, `enter`)
+Enter `nano bandit2`, paste the copied password, save & exit (`Ctrl + x`, `y`, `enter`)
 
 ---
 
@@ -100,7 +100,7 @@ Highlight and copy the returned password
 
 Break the ssh connection by typing `logout` or hitting `Ctrl + d`
 
-Enter `nano bandit1`, paste the copied password, save & exit (`Ctrl + x`, `y`, `enter`)
+Enter `nano bandit3`, paste the copied password, save & exit (`Ctrl + x`, `y`, `enter`)
 
 ---
 
@@ -124,7 +124,7 @@ Highlight and copy the returned password
 
 Break the ssh connection by typing `logout` or hitting `Ctrl + d`
 
-Enter `nano bandit1`, paste the copied password, save & exit (`Ctrl + x`, `y`, `enter`)
+Enter `nano bandit4`, paste the copied password, save & exit (`Ctrl + x`, `y`, `enter`)
 
 ---
 
@@ -164,7 +164,7 @@ Highlight and copy the returned password
 
 Break the ssh connection by typing `logout` or hitting `Ctrl + d`
 
-Enter `nano bandit1`, paste the copied password, save & exit (`Ctrl + x`, `y`, `enter`)
+Enter `nano bandit5`, paste the copied password, save & exit (`Ctrl + x`, `y`, `enter`)
 
 ---
 
@@ -194,7 +194,7 @@ Highlight and copy the returned password
 
 Break the ssh connection by typing `logout` or hitting `Ctrl + d`
 
-Enter `nano bandit1`, paste the copied password, save & exit (`Ctrl + x`, `y`, `enter`)
+Enter `nano bandit6`, paste the copied password, save & exit (`Ctrl + x`, `y`, `enter`)
 
 ---
 
@@ -220,7 +220,7 @@ Highlight and copy the returned password
 
 Break the ssh connection by typing `logout` or hitting `Ctrl + d`
 
-Enter `nano bandit1`, paste the copied password, save & exit (`Ctrl + x`, `y`, `enter`)
+Enter `nano bandit7`, paste the copied password, save & exit (`Ctrl + x`, `y`, `enter`)
 
 ---
 
@@ -242,7 +242,7 @@ Highlight and copy the returned password
 
 Break the ssh connection by typing `logout` or hitting `Ctrl + d`
 
-Enter `nano bandit1`, paste the copied password, save & exit (`Ctrl + x`, `y`, `enter`)
+Enter `nano bandit8`, paste the copied password, save & exit (`Ctrl + x`, `y`, `enter`)
 
 ---
 
@@ -262,7 +262,7 @@ Highlight and copy the returned password
 
 Break the ssh connection by typing `logout` or hitting `Ctrl + d`
 
-Enter `nano bandit1`, paste the copied password, save & exit (`Ctrl + x`, `y`, `enter`)
+Enter `nano bandit9`, paste the copied password, save & exit (`Ctrl + x`, `y`, `enter`)
 
 ---
 
@@ -282,7 +282,7 @@ Highlight and copy the returned password
 
 Break the ssh connection by typing `logout` or hitting `Ctrl + d`
 
-Enter `nano bandit1`, paste the copied password, save & exit (`Ctrl + x`, `y`, `enter`)
+Enter `nano bandit10`, paste the copied password, save & exit (`Ctrl + x`, `y`, `enter`)
 
 ---
 
@@ -300,7 +300,7 @@ Highlight and copy the returned password
 
 Break the ssh connection by typing `logout` or hitting `Ctrl + d`
 
-Enter `nano bandit1`, paste the copied password, save & exit (`Ctrl + x`, `y`, `enter`)
+Enter `nano bandit11`, paste the copied password, save & exit (`Ctrl + x`, `y`, `enter`)
 
 ---
 
@@ -320,7 +320,7 @@ Highlight and copy the returned password
 
 Break the ssh connection by typing `logout` or hitting `Ctrl + d`
 
-Enter `nano bandit1`, paste the copied password, save & exit (`Ctrl + x`, `y`, `enter`)
+Enter `nano bandit12`, paste the copied password, save & exit (`Ctrl + x`, `y`, `enter`)
 
 ---
 
@@ -384,7 +384,7 @@ Highlight and copy the returned password
 
 Break the ssh connection by typing `logout` or hitting `Ctrl + d`
 
-Enter `nano bandit1`, paste the copied password, save & exit (`Ctrl + x`, `y`, `enter`)
+Enter `nano bandit13`, paste the copied password, save & exit (`Ctrl + x`, `y`, `enter`)
 
 ---
 
@@ -416,7 +416,7 @@ Highlight and copy the returned password
 
 Break the ssh connection by typing `logout` or hitting `Ctrl + d`
 
-Enter `nano bandit1`, paste the copied password, save & exit (`Ctrl + x`, `y`, `enter`)
+Enter `nano bandit15`, paste the copied password, save & exit (`Ctrl + x`, `y`, `enter`)
 
 ---
 
@@ -441,7 +441,7 @@ Highlight and copy the returned password
 
 Break the ssh connection by typing `logout` or hitting `Ctrl + d`
 
-Enter `nano bandit1`, paste the copied password, save & exit (`Ctrl + x`, `y`, `enter`)
+Enter `nano bandit16`, paste the copied password, save & exit (`Ctrl + x`, `y`, `enter`)
 
 ---
 
@@ -506,7 +506,7 @@ Highlight and copy the returned password
 
 Break the ssh connection by typing `logout` or hitting `Ctrl + d`
 
-Enter `nano bandit1`, paste the copied password, save & exit (`Ctrl + x`, `y`, `enter`)
+Enter `nano bandit18`, paste the copied password, save & exit (`Ctrl + x`, `y`, `enter`)
 
 ---
 
@@ -538,7 +538,7 @@ Highlight and copy the returned password
 
 Break the ssh connection by typing `logout` or hitting `Ctrl + d`
 
-Enter `nano bandit1`, paste the copied password, save & exit (`Ctrl + x`, `y`, `enter`)
+Enter `nano bandit20`, paste the copied password, save & exit (`Ctrl + x`, `y`, `enter`)
 
 ---
 
@@ -578,7 +578,7 @@ Highlight and copy the returned password
 
 Break the ssh connection by typing `logout` or hitting `Ctrl + d`
 
-Enter `nano bandit1`, paste the copied password, save & exit (`Ctrl + x`, `y`, `enter`)
+Enter `nano bandit22`, paste the copied password, save & exit (`Ctrl + x`, `y`, `enter`)
 
 ---
 
@@ -604,7 +604,7 @@ Highlight and copy the returned password
 
 Break the ssh connection by typing `logout` or hitting `Ctrl + d`
 
-Enter `nano bandit1`, paste the copied password, save & exit (`Ctrl + x`, `y`, `enter`)
+Enter `nano bandit23`, paste the copied password, save & exit (`Ctrl + x`, `y`, `enter`)
 
 ---
 
@@ -653,7 +653,7 @@ Highlight and copy the returned password
 
 Break the ssh connection by typing `logout` or hitting `Ctrl + d`
 
-Enter `nano bandit1`, paste the copied password, save & exit (`Ctrl + x`, `y`, `enter`)
+Enter `nano bandit24`, paste the copied password, save & exit (`Ctrl + x`, `y`, `enter`)
 
 ---
 
@@ -691,7 +691,7 @@ Highlight and copy the returned password
 
 Break the ssh connection by typing `logout` or hitting `Ctrl + d`
 
-Enter `nano bandit1`, paste the copied password, save & exit (`Ctrl + x`, `y`, `enter`)
+Enter `nano bandit25`, paste the copied password, save & exit (`Ctrl + x`, `y`, `enter`)
 
 ---
 
@@ -737,7 +737,7 @@ Highlight and copy the returned password
 
 Break the ssh connection by typing `logout` or hitting `Ctrl + d`
 
-Enter `nano bandit1`, paste the copied password, save & exit (`Ctrl + x`, `y`, `enter`)
+Enter `nano bandit27`, paste the copied password, save & exit (`Ctrl + x`, `y`, `enter`)
 
 ---
 
@@ -767,7 +767,7 @@ Highlight and copy the returned password
 
 Break the ssh connection by typing `logout` or hitting `Ctrl + d`
 
-Enter `nano bandit1`, paste the copied password, save & exit (`Ctrl + x`, `y`, `enter`)
+Enter `nano bandit28`, paste the copied password, save & exit (`Ctrl + x`, `y`, `enter`)
 
 ---
 
@@ -799,7 +799,7 @@ Highlight and copy the returned password
 
 Break the ssh connection by typing `logout` or hitting `Ctrl + d`
 
-Enter `nano bandit1`, paste the copied password, save & exit (`Ctrl + x`, `y`, `enter`)
+Enter `nano bandit29`, paste the copied password, save & exit (`Ctrl + x`, `y`, `enter`)
 
 ---
 
@@ -837,7 +837,7 @@ Highlight and copy the returned password
 
 Break the ssh connection by typing `logout` or hitting `Ctrl + d`
 
-Enter `nano bandit1`, paste the copied password, save & exit (`Ctrl + x`, `y`, `enter`)
+Enter `nano bandit30`, paste the copied password, save & exit (`Ctrl + x`, `y`, `enter`)
 
 ---
 
@@ -873,7 +873,7 @@ Highlight and copy the returned password
 
 Break the ssh connection by typing `logout` or hitting `Ctrl + d`
 
-Enter `nano bandit1`, paste the copied password, save & exit (`Ctrl + x`, `y`, `enter`)
+Enter `nano bandit31`, paste the copied password, save & exit (`Ctrl + x`, `y`, `enter`)
 
 ---
 
@@ -915,7 +915,7 @@ Highlight and copy the returned password
 
 Break the ssh connection by typing `logout` or hitting `Ctrl + d`
 
-Enter `nano bandit1`, paste the copied password, save & exit (`Ctrl + x`, `y`, `enter`)
+Enter `nano bandit32`, paste the copied password, save & exit (`Ctrl + x`, `y`, `enter`)
 
 ---
 
@@ -935,7 +935,7 @@ Highlight and copy the returned password
 
 Break the ssh connection by typing `logout` or hitting `Ctrl + d`
 
-Enter `nano bandit1`, paste the copied password, save & exit (`Ctrl + x`, `y`, `enter`)
+Enter `nano bandit33`, paste the copied password, save & exit (`Ctrl + x`, `y`, `enter`)
 
 ---
 
